@@ -1,0 +1,14 @@
+Name:
+Impossible
+Lecture slots:
+MO, 8:00, 1, 0, 0
+Tutorial slots:
+Lectures:
+CPSC 231 LEC 01, false
+CPSC 231 LEC 02, false
+Tutorials:
+Not compatible:
+Unwanted:
+Preferences:
+Pair:
+Partial assignments:

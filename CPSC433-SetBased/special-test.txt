@@ -1,0 +1,21 @@
+Name:
+Specials
+Lecture slots:
+MO, 8:00, 2, 0, 1
+MO, 9:00, 2, 0, 1
+TU, 9:30, 2, 0, 1
+Tutorial slots:
+TU, 18:00, 2, 0, 1
+MO, 8:00, 2, 0, 1
+MO, 9:00, 2, 0, 1
+Lectures:
+CPSC 351 LEC 01, false
+CPSC 501 LEC 01, false
+CPSC 503 LEC 01, false
+Tutorials:
+CPSC 351 LEC 01 TUT 01, false
+Not compatible:
+Unwanted:
+Preferences:
+Pair:
+Partial assignments:
